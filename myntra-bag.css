@@ -1,0 +1,37 @@
+.box{
+    display:flex;
+    margin: 40px;
+}
+#box1{
+    border: 2px;
+   background-color: lightgreen;
+   border-radius: 10px;
+   padding-left: 15px;
+   padding-right: 15px;
+   font-size: 15px;
+}
+
+.box button{
+    height: 40px;
+    padding: 5px;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+#box2{
+    border: 2px solid #ccc;
+   background-color: rgb(232, 243, 232);
+   border-radius: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   font-size: 15px;
+}
+
+#box3{
+    border: 2px;
+   background-color: rgb(17, 226, 17);
+   border-radius: 10px;
+   padding-left: 15px;
+   padding-right: 15px;
+   font-size: 15px;
+}

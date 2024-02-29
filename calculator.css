@@ -1,0 +1,29 @@
+.calculator{
+    width: 300px;
+    border: 2px solid black;
+   margin-left: 600px;
+   margin-top: 60px;
+   padding: 2px;
+   
+}
+.cal button{
+    width: 55px;
+    height: 55px;
+    margin: 7px;
+    margin-right: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+    justify-content: center;
+}
+.cal{
+    display: block;
+    justify-content: center;
+}
+
+#display{
+    width: 280px;
+    height: 50px;
+    margin: 5px;
+    border: 2px solid rgb(157, 154, 154);
+    font-size: 20px;
+}
